@@ -64,7 +64,7 @@ The second format is documented below:
 }
 }}}
 
-* There *must* be an array whos name is "results" at the first level of the JSON object.
-* Each element of the array *must* contain at least _lat_ (latitude), _lng_ (longitude), _elevation_ (could be "0"), _title_ (the string that will be shown below the Marker).
-* Each element of the array *could* contain _webpage_ (a link to the what is shown when the user clicks on the marker) and if it does it *must* contain _has_detail_page_ with a value of 1). NB: A value of 0 for _has_detail_page_ means that mixare will not consider clicks on that marker.
-* Each element of the array *could* contain _distance_.
+  * There *must* be an array whos name is "results" at the first level of the JSON object.
+  * Each element of the array *must* contain at least _lat_ (latitude), _lng_ (longitude), _elevation_ (could be "0"), _title_ (the string that will be shown below the Marker).
+  * Each element of the array *could* contain _webpage_ (a link to the what is shown when the user clicks on the marker) and if it does it *must* contain _has_detail_page_ with a value of 1). NB: A value of 0 for _has_detail_page_ means that mixare will not consider clicks on that marker.
+  * Each element of the array *could* contain _distance_.
