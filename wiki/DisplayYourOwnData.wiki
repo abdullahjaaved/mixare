@@ -1,4 +1,4 @@
-#labels Phase-Implementation
+#labels Phase-Implementation,Featured
 #This page documents the data format that mixare understands and how to communicate it to the application.
 
 = Introduction =
