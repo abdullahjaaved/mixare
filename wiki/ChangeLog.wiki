@@ -1,0 +1,8 @@
+#labels Featured
+===v0.1.1 beta===
+  * compatibility with android 1.5
+  * camera on Nexus One fixed
+
+===v0.1 beta (first version)===
+  * the app may fail to start (NullpointerException) if you never had a GPS fix after last reboot.
+  * the camera in the Nexus one is not working
