@@ -1,4 +1,15 @@
 #labels Featured
+===v0.2===
+ * Added menu
+ * Added german translation
+ * Added italian translation
+ * Added persistent preferences (radius)
+ * Added "show license at first start"
+ * Added list view
+ * Added GPS fix notifications
+ * Added failed download notifications
+ * Fixed download nullpointerexception
+
 ===v0.1.1 beta===
   * compatibility with android 1.5
   * camera on Nexus One fixed
