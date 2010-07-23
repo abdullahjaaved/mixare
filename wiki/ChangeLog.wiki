@@ -1,5 +1,6 @@
 #labels Featured
 ===v0.3===
+ * Added compatibility with FroYo (Android 2.2) and FroYo install to sd card
  * Added twitter as data source (very early integration)
  * Various fixes in the list view
  * Menu enhancements
