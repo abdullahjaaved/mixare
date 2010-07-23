@@ -1,4 +1,9 @@
 #labels Featured
+===v0.3===
+* Added twitter as data source (very early integration)
+* Various fixes in the list view
+* Menu enhancements
+
 ===v0.2===
  * Added menu
  * Added german translation
