@@ -1,0 +1,4 @@
+= Mixare repository has been moved to GIT at github.com =
+
+Please update your bookmarks, the url for the repository is:
+http://github.com/mixare/mixare
