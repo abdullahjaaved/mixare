@@ -1,8 +1,8 @@
 #labels Featured
 ===v0.4===
-* Added Google maps as visualization option
-* Added google buzz as data provider (thanks hanbo)
-* Many many bugfixes
+ * Added Google maps as visualization option
+ * Added google buzz as data provider (thanks hanbo)
+ * Many many bugfixes
 
 ===v0.3===
  * Added compatibility with Froyo (Android 2.2) and Froyo install to sd card
