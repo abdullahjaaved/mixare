@@ -1,4 +1,8 @@
 #labels Featured
+===v0.4.1===
+ * bugfix (double press menu on menulist and datasource could forceclose mixare)
+ * bugfix twitter returns error when requested radius < 1km
+
 ===v0.4===
  * Added Google maps as visualization option
  * Added google buzz as data provider (thanks hanbo)
