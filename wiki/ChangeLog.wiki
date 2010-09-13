@@ -3,6 +3,7 @@
  * NEW data source: Openstreetmap railway stations 
  * NEW data source: Custom URL
  * NEW feature: search among displayed entries
+ * NEW language: Spanish
 
 ===v0.4.1===
  * bugfix (double press menu on menulist and datasource could forceclose mixare)
