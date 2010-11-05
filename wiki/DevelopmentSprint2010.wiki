@@ -8,7 +8,7 @@ If you intend to join us, please send an email to info@mixare.org !
 ==When==
 The sprint will begin on *Monday 2010-11-08* at *14:00*
 
-The sprint will end on *Thursday 2010-11-11* (in the afternoon :-) )
+The sprint will end on *Thursday 2010-11-11* (sometimes in the afternoon :-) )
 
 ==What==
 The main objective of the development sprint is to shrink the list of open issues in our [http://code.google.com/p/mixare/issues/list issue tracker] and make progress according to our [http://code.google.com/p/mixare/wiki/Roadmap roadmap].
