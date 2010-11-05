@@ -28,6 +28,8 @@ A few develpment tasks have been underlined as really important and will be deal
   * camera calibration (cf. [http://code.google.com/p/android-opencv/ opencv project])
   * use of opengl instead of surfaceview
 
+Additionally, the *iphone port* will be finalized in its first incarnation! So iOS developers are very welcome as well!
+
 ===Non coding tasks===
 Documentation is something that is a bit lacking in mixare, so to improve it is definitely something we want to address. Further there will be talks about Java coding best practices and everyone will be invited to share his/her experiences.
 
