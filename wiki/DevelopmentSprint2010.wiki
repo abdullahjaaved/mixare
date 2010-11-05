@@ -15,6 +15,10 @@ The main objective of the development sprint is to shrink the list of open issue
 
 Other than this, we will have some "sessions" to share our experiences and best practices among the whole community.
 
+==Where==
+The development sprint will be hosted at TIS innovation Park in Bolzano.
+[http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=TIS+bolzano&sll=41.902277,9.755859&sspn=47.302762,78.837891&ie=UTF8&hq=TIS&hnear=Bolzano,+Trentino-Alto+Adige%2FS%C3%BCdtirol,+Italy&ll=46.480723,11.328449&spn=0.020804,0.038495&z=15&iwloc=A Here] a link to the map where you can also get directions etc.
+
 ===Coding tasks===
 A few develpment tasks have been underlined as really important and will be dealt with special care, they are listed in inverse order of difficulty (easier tasks at the beginning):
   * adaptation of the latest additions by Hannes in order to deal with different visualization radii
