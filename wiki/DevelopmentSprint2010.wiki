@@ -47,3 +47,7 @@ If you want to join us send an email to info@mixare.org
   * [http://www.kernel.org/pub/software/scm/git/docs/everyday.html git tutoral]
   * [http://www.kernel.org/pub/software/scm/git/docs/v1.4.4.4/tutorial-2.html git tutorial]
   * [http://marklodato.github.com/visual-git-guide/index-en.html git visual reference]
+
+====Graphic guidelines/resources====
+  * [http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html android asset studio]
+  * [http://code.google.com/p/android-ui-utils/ android ui utils]
