@@ -32,6 +32,7 @@ Additionally, the *iphone port* will be finalized in its first incarnation! So i
 
 ===Non coding tasks===
 Documentation is something that is a bit lacking in mixare, so to improve it is definitely something we want to address. Further there will be talks about Java coding best practices and everyone will be invited to share his/her experiences.
+
 *Update (2010-11-08):* Andrea Antonello, who partecipated in lots of development sprints for GIS-related projects, will share his experiences with us!
 
 Please note that the above program is a declaration of intents! In order to achieve all the above (and possibly more) the contribution of anyone that is able to join and help is fundamental.
