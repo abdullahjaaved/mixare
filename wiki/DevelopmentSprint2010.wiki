@@ -22,6 +22,7 @@ The development sprint will be hosted at TIS innovation Park in Bolzano.
 ===Coding tasks===
 A few develpment tasks have been underlined as really important and will be dealt with special care, they are listed in inverse order of difficulty (easier tasks at the beginning):
   * adaptation of the latest additions by Hannes in order to deal with different visualization radii
+  * fix to allow opening local files (from SD Card)
   * custom markers on the map view (related to the source)
   * fix for the aspect ratio (distorted image preview especially on WVGA screens)
   * fix for the click problem (difficulty whith clicking a marker, possibly related with the above)
