@@ -1,4 +1,11 @@
 #labels Featured
+===v0.6===
+  * NEW floating social media markers 
+  * NEW graphics for social media markers
+  * NEW navigation arrows for Openstreetmap railway stations
+  * NEW dynamic diameter for POIs
+  * FIX Better performances
+
 ===v0.5===
  * NEW data source: Openstreetmap railway stations 
  * NEW data source: Custom URL
