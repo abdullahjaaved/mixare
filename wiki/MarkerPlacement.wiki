@@ -1,0 +1,20 @@
+#current state of the placement of markers on the screen
+
+= Introduction =
+
+There are three marker types (categories) in mixare:
+  * Normal markers (POIs)
+  * Navigation markers (NAVs)
+  * Social media markers (BUBs)
+
+= Normal Markers =
+
+TODO
+
+= Navigation markers =
+
+TODO
+
+= Social media markers =
+
+TODO
