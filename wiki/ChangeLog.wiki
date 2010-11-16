@@ -1,5 +1,6 @@
 #labels Featured
 ===v0.6===
+  * NEW multiple data sources may be selected at once
   * NEW floating social media markers 
   * NEW graphics for social media markers
   * NEW navigation arrows for Openstreetmap railway stations
