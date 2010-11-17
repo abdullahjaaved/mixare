@@ -1,4 +1,7 @@
 #labels Featured
+===v0.6.1===
+  * FIX the click on the markers work are now more reliable
+
 ===v0.6===
   * NEW multiple data sources may be selected at once
   * NEW floating social media markers 
