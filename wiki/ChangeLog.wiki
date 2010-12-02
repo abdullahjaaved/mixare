@@ -1,4 +1,7 @@
 #labels Featured
+===v0.6.3===
+  * FIX issue 52, local data source
+
 ===v0.6.2===
   * FIX the tapping the map before the content is downloaded now works
 
