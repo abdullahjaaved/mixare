@@ -1,11 +1,11 @@
 #labels Featured
-= Mixare repository has been moved to GIT at github.com =
+= Mixare for Android repository is on github.com =
 
 Please update your bookmarks, the url for the repository is:
 http://github.com/mixare/mixare
 
 
-= Mixare for iPhone has a GIT repository as well on github =
+= Mixare for iPhone GIT repository on github =
 
 The url for the repository is:
 http://github.com/mixare/mixare-iphone
