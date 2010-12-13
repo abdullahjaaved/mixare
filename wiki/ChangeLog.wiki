@@ -1,4 +1,10 @@
 #labels Featured
+===vDEVELOPMENT===
+(this reflects the changes in the current development branch on github)
+  * FIX issue 64 (thanks kunlgt82!)
+  * target SDK: 9 (gingerbread)
+  * FIX issue 63 (thanks to the community of samdroid)
+
 ===v0.6.3===
   * FIX issue 52, local data source
 
