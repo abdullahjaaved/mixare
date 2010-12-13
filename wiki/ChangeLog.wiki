@@ -2,6 +2,7 @@
 ===vDEVELOPMENT===
 (this reflects the changes in the current development branch on github)
   * implemented back-off location pattern
+  * support for different screen densities
 
 ===v0.6.4===
   * FIX issue 64 (thanks kunlgt82!)
