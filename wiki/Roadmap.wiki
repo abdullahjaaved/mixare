@@ -5,6 +5,10 @@
   * Automatically updating datasources in intervals provided by datasource
  * ARML support
  * GeoJSON support
+ * act as WFS Client (WFS = Web Feature Service)
+  * http://www.opengeospatial.org/standards/wfs
+  * as XML
+  * as GeoJSON
  * Local/custom datasources
   * Showing “local” datasources in datasources menu depending on actual user position
   * Showing market links to separate apps with local content.
@@ -31,6 +35,8 @@
    * Clicking on it activates WebView to the provided link
   * Sliding right/left on text box switches to the next POI right/left of the current one
   * Currently selected POI should be highlighted (the corresponding circle and the point in the radar)
+  * Add support for lines and polygons
+   * use OpenGL ES
 
 ==UI==
  * Side arrows
@@ -46,6 +52,8 @@
  * Compass
   * Smooth compass measurements
   * Show notification when compass measurements are not reliable
+ * Integration with high precision DTM (Digital Terrain Model) and visibility analysis
+  * using WPS (http://www.opengeospatial.org/standards/wps)
 
 ==Searching/Filtering==
  * Distinguish between searching and filtering
