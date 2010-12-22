@@ -1,4 +1,4 @@
-#labels Phase-Implementation,Featured
+#labels Phase-Implementation,Featured,Platform-iPhone,Platform-Android
 #This page documents the data format that mixare understands and how to communicate it to the application.
 
 = Introduction =
