@@ -1,5 +1,5 @@
 #summary Shows the responsibility of each file/class
-#labels Featured
+#labels Featured,Platform-iPhone
 
 = File/Class responsibilities of the iPhone version =
 
