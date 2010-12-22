@@ -1,4 +1,4 @@
-#labels Featured
+#labels Featured,Platform-iPhone,Platform-Android
 = Mixare for Android repository is on github.com =
 
 Please update your bookmarks, the url for the repository is:
