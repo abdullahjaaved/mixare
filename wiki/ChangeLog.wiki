@@ -1,4 +1,4 @@
-#labels Featured
+#labels Featured,Platform-Android
 ===vDEVELOPMENT===
 (this reflects the changes in the current development branch on github)
   * implemented back-off location pattern
