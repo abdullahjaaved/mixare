@@ -1,4 +1,4 @@
-#labels Phase-Design
+#labels Phase-Design,Platform-Android
 #list of phone models on which mixare can be tested
 
 = List of phones (and people) willing to test new releases of Mixare before they go to the market =
