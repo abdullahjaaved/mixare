@@ -15,7 +15,7 @@ The features in the Development branch will be part of the next major release, f
 
 ===MASTER/HOTFIX branch===
 (this reflects the changes in the current master branch on github: see https://github.com/mixare/mixare )
-  * FIX issue 71 (thanks leg!)
+  * no changes since current market release
 
 == Past releases ==
 
