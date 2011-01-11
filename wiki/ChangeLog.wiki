@@ -1,10 +1,25 @@
 #labels Featured,Platform-Android
-===vDEVELOPMENT===
-(this reflects the changes in the current development branch on github)
+== Current Market release ==
+
+===v0.6.5===
+  * FIX issue 71 (thanks leg!)
+
+== Current Development ==
+
+The features in the Development branch will be part of the next major release, features in the Master/Hotfix branch will be released to the market as minor updates as soon as they are tested.
+ 
+===DEVELOPMENT branch===
+(this reflects the changes in the current development branch on github: see https://github.com/mixare/mixare/tree/development  )
   * implemented back-off location pattern
   * support for different screen densities
 
-===v0.6.4===
+===MASTER/HOTFIX branch===
+(this reflects the changes in the current master branch on github: see https://github.com/mixare/mixare )
+  * FIX issue 71 (thanks leg!)
+
+== Past releases ==
+
+=== v0.6.4===
   * FIX issue 64 (thanks kunlgt82!)
   * target SDK: 9 (gingerbread)
   * FIX issue 63 (thanks to the community of samdroid)
