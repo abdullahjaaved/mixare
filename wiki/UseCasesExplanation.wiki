@@ -61,7 +61,7 @@ directions about how to do this follow:
 
 * How to change the JSON parsing (to support additional data formats: 
 
-** See the file http://code.google.com/p/mixare/source/browse/trunk/mixare/src/org/mixare/data/Json.java
+** See the file https://github.com/mixare/mixare/blob/master/src/org/mixare/data/Json.java
 
 * How to had-code some test data places in mixare for testing purposes: 
 
