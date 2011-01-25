@@ -2,8 +2,8 @@
 == Current Market release ==
 
 ===v0.6.6===
-  * FIX isse 74 underline POIs with links in AR view (thanks leg!)
-  * FIX isse 74 underline POIs with links in list view (thanks leg!)
+  * FIX issue 74 - underline POIs with links in AR view (thanks leg!)
+  * FIX issue 74 - underline POIs with links in list view (thanks leg!)
   * FIX issue 67 - display the message about compass errors only a few times (thanks leg!) 
 
 == Current Development ==
