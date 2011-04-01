@@ -151,17 +151,3 @@ if( $lat!=0 && $lon!=0 && $radius>0 ) {
 ?>
 }}}
 put this script in the main folder and call it via mixare.
-
-
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
