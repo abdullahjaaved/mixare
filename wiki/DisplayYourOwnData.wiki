@@ -24,7 +24,7 @@ It means you can even launch mixare from the browser ;)
 At the moment mixare supports two types of JSON encoding, the first being the one of geonames.org discussed earlier.
 
 The second format is documented below:
-
+==Please note that the code below is a working example.==
 {{{
 {
     "status": "OK",
