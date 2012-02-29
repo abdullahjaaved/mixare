@@ -1,4 +1,4 @@
-#labels Featured,Platform-iPhone,Platform-Android
+#labels Platform-iPhone,Platform-Android
 =Program for the first mixare development sprint in Bolzano=
 
 The sprint takes place in the framework of the [http://fsweek.org freesoftwareweek] 
