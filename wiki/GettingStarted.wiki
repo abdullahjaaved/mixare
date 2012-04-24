@@ -16,4 +16,13 @@ After you added both projects, you have to convert mixarelib into a android libr
 
 Then rightclick on the mixare project -> go to properties -> select android -> scroll down -> and then add the mixarelib as the project library.
 
+== Lint issues (translation errors) ==
+
+Since a recent updated of the android tools, Lint translation errors are considered "fatal". It means that you will not be able to create the apk of mixare if the localization files are missing some strings.
+
+A solution is to change the error level to something different than "fatal" for the property "MissingTranslation". To do this proceed as follows: right click on project -> choose properties -> choose "android lint preferences" -> under "correctness: Messages" choose "MissingTranslation" -> change severity to something else than fatal.
+
+Than, if *your* language is among the one missing strings, please consider sending a patch with the updated file :-)
+
+
 Good luck
