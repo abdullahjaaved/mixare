@@ -1,19 +1,19 @@
 #labels Featured,Platform-Android
 == Current Market release ==
 
-===v0.6.6===
-  * FIX issue 74 - underline POIs with links in AR view (thanks leg!)
-  * FIX issue 74 - underline POIs with links in list view (thanks leg!)
-  * FIX issue 67 - display the message about compass errors only a few times (thanks leg!) 
+===v0.8.2===
+  * dutch language support
+  * code cleanup MixListView is now used only for POIs list
+  * mp3 /mp4 support in webview
+  * code cleanup and licensing update
+
 
 == Current Development ==
 
 The features in the Development branch will be part of the next major release, features in the Master/Hotfix branch will be released to the market as minor updates as soon as they are tested.
  
 ===DEVELOPMENT branch===
-(this reflects the changes in the current development branch on github: see https://github.com/mixare/mixare/tree/development  )
-  * implemented back-off location pattern
-  * support for different screen densities
+  * no changes since current market release 
 
 ===MASTER/HOTFIX branch===
 (this reflects the changes in the current master branch on github: see https://github.com/mixare/mixare )
@@ -23,6 +23,11 @@ The features in the Development branch will be part of the next major release, f
 
 
 == Past releases ==
+
+===v0.6.6===
+  * FIX issue 74 - underline POIs with links in AR view (thanks leg!)
+  * FIX issue 74 - underline POIs with links in list view (thanks leg!)
+  * FIX issue 67 - display the message about compass errors only a few times (thanks leg!) 
 
 ===v0.6.5===
   * FIX issue 71 (thanks leg!)
