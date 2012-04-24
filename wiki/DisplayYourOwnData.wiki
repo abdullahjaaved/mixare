@@ -19,6 +19,13 @@ Mixare will be invoked by the android system for every call you make to the myme
 
 It means you can even launch mixare from the browser ;)
 
+= How to use your own datasource from within mixare =
+
+Recent versions of mixare (> v0.7) support adding and editing datasource at runtime. Just go to the datasources list (press menu -> select datasource) and add your own (press menu -> select "add new datasource").
+
+Choose whether the POIs should be displayed as circles or as arrows, and if the format is Mixare(JSON) or OpenStreetMap (XAPI). Then go back, and the datasource will be saved.
+
+
 = How your data should be encoded =
 
 At the moment mixare supports two types of JSON encoding, the first being the one of geonames.org discussed earlier.
@@ -68,6 +75,7 @@ The second format is documented below:
   * Each element of the array *must* contain at least _lat_ (latitude), _lng_ (longitude), _elevation_ (could be "0"), _title_ (the string that will be shown below the Marker).
   * Each element of the array *could* contain _webpage_ (a link to the what is shown when the user clicks on the marker) and if it does it *must* contain _has_detail_page_ with a value of 1). NB: A value of 0 for _has_detail_page_ means that mixare will not consider clicks on that marker.
   * Each element of the array *could* contain _distance_.
+  * It is *strongly recommended* to add a *unique* ID to each marker. This ID (among with the title) is used to distinguish among different markers _in mixare version < 0.8.2 there was a bug where markers with the same title were collapsed into one even if the ID was specified_. 
 
 == Further details ==
 
