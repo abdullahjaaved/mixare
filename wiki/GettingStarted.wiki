@@ -1,0 +1,14 @@
+#labels Phase-Deploy,Featured,Phase-Implementation
+*The follwing tutorial applies for mixare v0.8 and above*
+
+=Importing and compiling the project=
+
+Once you forked or cloned the project from github, you can start importing mixare in your workspace.
+Since version 0.8 mixare contains 2 parts. The core part and the library (mixarelib) part.  
+
+In order to successfully import the mixare project into your workspace, you need to import the library of mixare. The library can be found in _plugins/mixarelib_
+
+You first have to import both the mixare and the mixarelib into your workspace.
+Then rightclick on the mixare project -> go to properties -> select android -> scroll down -> and then add the mixarelib as the project library.
+
+Good luck
