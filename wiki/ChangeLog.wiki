@@ -24,6 +24,17 @@ The features in the Development branch will be part of the next major release, f
 
 == Past releases ==
 
+===v0.8.1===
+  * FIX of various issues 
+
+===v0.8===
+  * NEW Refactored code and plugin structure. Developers can now customize mixare behavior (datasources, etc.)
+  * REMOVED Buzz datasource. Buzz does not exist anymore
+
+===v0.7.x===
+  * NEW Added support for custom datasource defined at runtime (the user can add new datasource and edit them)
+  * a few bugfix release were made
+
 ===v0.6.6===
   * FIX issue 74 - underline POIs with links in AR view (thanks leg!)
   * FIX issue 74 - underline POIs with links in list view (thanks leg!)
