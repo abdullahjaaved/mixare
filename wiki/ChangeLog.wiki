@@ -3,50 +3,26 @@
 
 ===v0.9===
 
-added loading plugin through launcher support in the manifest
-added support for reading offline datasources (fixed file:// url readings)
-fixed refresh on datasource change
-Fixed location finding. Accuracy of the location increased.
-fixed refresh problem (now multiple datasources work again)
-Work Flow Enhancements: setZoomLevel should not refreash downloads, repaint should only repaint, better maintains of view (onRestart),removed duplicate getDownloadManager, secure Loging
-cherry-picking old commits
-Merge new MixMap changes + reorganized code, about to test memory consumption
-Added Sending results among activities + few enhancements
-Fixed DataView Click event for not set keypads + click calculate angle check after validation
-Refactor Radar viewing, and secure radarText function
-Pull direction abbreviation string from res/XML == support all avalible languages
-Fixed location finding. Accuracy of the location increased.
-fixed refresh problem (now multiple datasources work again)
-Merge pull request #35 from DevBinnooh/feature/issue_98
-Work around Issue_98, TODO improve click events for collective displayed markers
-Fixed location finding. Accuracy of the location increased.
-fixed refresh problem (now multiple datasources work again)
-Merge pull request #30 from abduegal/feature/issue106-plugin
-added soft refresh features, markers wont dissapear on reload.
-updated issue 106(id problem) for plugins
-updated gitignore files
-removed files that shouldn't have been committed
-Corrected Arabic Language support. (supported on 2.3.3 and later) Add Arabic Language support. (supported on 2.3.3 and later)
-Removed duplicate access to R, memory enhancement
-Reorganized MixView Class 
-Javadoc on any public interface of managers, protect thread race condition on MixView in MixContext, protect DownloadManager from requests not well formed
-Added UML diagrams
-Location have same standard of other managers, only name is equal to develop branch. Splitted Location in 2 class
-Added license information on some forgotten places, added some code documentation.
-DownloadManager using new thread safe structure
-New DataSourceManager class - DownloadManager explose - created mgr package
-MixContext Isolated - new location package
-fixed dutch language changes
-Added a promt, if there are plugins installed. This gives the user the choice to use the plugins, or not.
-Added walking route in mapview and toggle buttons for it.
-updated api level to Google API level 10
-refractored mixView by splitting it into locationfinder
-Added support for Intents can be fired if a url supports it. changed: processUrl and loadwebpage in mixview
-added some performance fixes, plugin can now be runned multiple times
-fixed an occuring crash when the data from the url could not be parsed
-added an extra type check when choosing a dataprocessor
-finished the test plugin
-created plugin project
+  * memory optimizations (a lot!)
+  * code refactoring (a lot!)
+  * updated api level to Google API level 10
+  * various fixes in existing languages files
+  * added loading plugin through launcher support in the manifest
+  * added support for reading offline datasources (fixed file:// url readings)
+  * fixed refresh on datasource change
+  * Fixed location finding. Accuracy of the location increased.
+  * Work Flow Enhancements: setZoomLevel should not refreash downloads, repaint should only repaint, better maintains of view (onRestart),removed duplicate getDownloadManager, secure Loging
+  * MixMap enhancements
+  * Added Sending results among activities + few enhancements
+  * Fixed DataView Click event for not set keypads + click calculate angle check after validation
+  * Refactor Radar viewing, and secure radarText function
+  * Add Arabic Language support. (supported on 2.3.3 and later)
+  * Added UML diagrams
+  * DownloadManager using new thread safe structure
+  * New DataSourceManager class - DownloadManager explose - created mgr package
+  * Added a prompt, if there are plugins installed. This gives the user the choice to use the plugins, or not.
+  * Added walking route in mapview and toggle buttons for it.
+  * Added support for Intents can be fired if a url supports it. changed: processUrl and loadwebpage in mixview
 
 
 == Current Development ==
