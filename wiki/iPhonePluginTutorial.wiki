@@ -1,0 +1,5 @@
+#summary Plugin Tutorial for iOS
+
+= Introduction =
+
+https://github.com/eXaLy/mixare-iphone/wiki/Plugins-guide
