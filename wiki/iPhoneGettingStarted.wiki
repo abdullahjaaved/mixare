@@ -1,0 +1,4 @@
+#summary Getting started with Mixare as Library for iOS
+
+= iOS Datasource display Tutorial =
+https://github.com/eXaLy/mixare-iphone/wiki/How-to-use-Mixare-as-library
